@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url(img/jb2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 600px;
+    text-align: left;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+}
+#tentang{
+    background-color: olivedrab;
+    color: aliceblue;
+}
